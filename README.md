@@ -23,8 +23,4 @@ This program provides a console interface for working with geometric shapes, imp
 
 ## Running
 
-Compile the code and run the executable. A C++ compiler is required.
-
-## License
-
-This project is distributed under the MIT License.
+Compile the code and run the executable. A C++ compiler is required
