@@ -4,22 +4,22 @@ This program provides a console interface for working with geometric shapes, imp
 
 ## Features
 
-- **Add Shapes**: Circle, Rectangle, Triangle, Convex Polygon.
-- **Display Shapes**: with parameters or area/perimeter.
-- **Calculations**: sum of areas/perimeters of all shapes.
-- **Sorting**: by increasing area/perimeter.
-- **Remove Shapes**: by number or by area/perimeter.
+- **Add Shapes**: Circle, Rectangle, Triangle, Convex
+- **Display Shapes**: with parameters or perimeter
+- **Calculations**: sum of perimeters of all shapes
+- **Sorting**: by increasing perimeter
+- **Remove Shapes**: by number or by perimeter
 
 ## Shape Types
 
-- **Circle**: name, center coordinates, radius.
-- **Rectangle**: name, corner coordinates.
-- **Triangle**: name, vertex coordinates.
+- **Circle**: name, center coordinates, radius
+- **Rectangle**: name, corner coordinates
+- **Triangle**: name, vertex coordinates
 
 ## Exception Handling
 
-- Validates parameters when creating shapes.
-- Exceptions for degenerate shapes.
+- Validates parameters when creating shapes
+- Exceptions for degenerate shapes
 
 ## Running
 
