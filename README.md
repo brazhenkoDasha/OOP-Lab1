@@ -4,7 +4,7 @@ This program provides a console interface for working with geometric shapes, imp
 
 ## Features
 
-- **Add Shapes**: Circle, Rectangle, Triangle, Convex
+- **Add Shapes**: Circle, Rectangle, Triangle
 - **Display Shapes**: with parameters or perimeter
 - **Calculations**: sum of perimeters of all shapes
 - **Sorting**: by increasing perimeter
